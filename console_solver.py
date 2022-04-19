@@ -1,3 +1,2 @@
-print("Hello")
+print("This is a Wordle Solver")
 
-print("Hi")
